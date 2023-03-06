@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{DDF398D9-4C56-49F0-9131-0862EF69C26A}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.APP-MUSIC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APP-MUSIC/Views/Home/GetSongDetail.cshtml">
+    <Files>
+      <File FileName="APP-MUSIC/Views/Home/Index.cshtml" Line="57" Column="18" />
+      <File FileName="APP-MUSIC/Views/Shared/_Layout.cshtml" Line="30" Column="9" />
+      <File FileName="APP-MUSIC/Controllers/HomeController.cs" Line="57" Column="1" />
+      <File FileName="APP-MUSIC/wwwroot/js/site.js" Line="140" Column="1" />
+      <File FileName="APP-MUSIC/wwwroot/css/site.css" Line="280" Column="1" />
+      <File FileName="APP-MUSIC/Views/Home/GetSongDetail.cshtml" Line="39" Column="22" />
+      <File FileName="APP-MUSIC/appsettings.json" Line="10" Column="74" />
+      <File FileName="APP-MUSIC/Models/SearchReponseModel.cs" Line="137" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APP-MUSIC" expanded="True">
+            <Node name="APP-MUSIC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="site.css" selected="True" />
+                </Node>
+                <Node name="img" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

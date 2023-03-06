@@ -1,0 +1,46 @@
+﻿@model APP_MUSIC.Models.SongModel
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+
+<div id="cover-spin"></div>
+
+<div style="margin-top:4rem;" class="container text-center">
+
+
+
+    <form action="/Home/Songs" method="get">
+        <div style="margin-top:2rem;" class="d-flex" role="search">
+            <input equired="" id="keywdord1" style="width:18rem" name="SearchWord" class="form-control me-2" type="search" placeholder="Full name of songs or artists" aria-label="Search">
+            <button id="btnSearch1" class="btn btn-outline-primary" type="submit">Search</button>
+        </div>
+        <div style="text-align:left" id="invalid-tooltip" class="invalid-tooltip">
+            Required field
+        </div>
+    </form>
+
+        <div style="margin-top:3rem; margin-bottom:2rem;" id="welcome-img">
+
+
+
+
+            <div class="row">
+                <div class="col-md-4">
+                    <img style="width:15rem" alt="Image Welcome" class="rounded" src="~/img/sound.jpg" />
+
+                </div>
+
+                <div class="col-md-6">
+                    <h3 class="welcome-title">Find your music easily with Throbbing Music</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+</div>
+
